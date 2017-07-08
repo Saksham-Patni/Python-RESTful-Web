@@ -1,1 +1,8 @@
-This is how it is modeled !
+This is how it is modeled! (High level approach)
+================================================
+
+The basic outline of this problem is to read the file.
+Look for integers using the re.findall().
+looking for a regular expression.
+Converting the extracted strings to integers
+Summing up the integers.
