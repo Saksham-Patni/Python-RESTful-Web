@@ -1,0 +1,9 @@
+High level approach
+=======================
+
+- Use Urllib library in Python to read the HTML from the data files
+- Parse the data
+- Extract numbers and compute the sum of the numbers in the file
+- Look for span tags and pull out the text content of the span tag
+- Like the following: <tr><td>Modu</td><td><span class="comments">90</span></td></tr>
+- Convert them to integers and add them up.
