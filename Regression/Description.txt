@@ -1,0 +1,9 @@
+Overview
+====================
+
+- The program will use urllib to read the HTML from the HTML files
+- Extract the href= vaues from the anchor tags.
+- Scan for a tag that is in a particular position relative to the first name in the list
+- Follow that link
+- Repeat the process a number of times
+- Report the last name you find
