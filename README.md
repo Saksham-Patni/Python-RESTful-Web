@@ -1,6 +1,4 @@
 # Python
 =================================
 
-Python - Highlevel web projects
-
-Licensed under the [MIT Licence](LICENSE)
+Python web projects, Licensed under the [MIT Licence](LICENSE)
