@@ -1,0 +1,3 @@
+Python program to read the JSON data from a URL using urllib
+Parse and extract the comment counts from the JSON data 
+Compute the sum of the numbers in the file
