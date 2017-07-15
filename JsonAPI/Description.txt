@@ -1,0 +1,13 @@
+Python program to prompt for a location
+Contact a web service and retrieve JSON for the web service
+Parse the data, and retrieve the first place_id from the JSON.
+
+Note: A place ID is a textual identifier that uniquely identifies a place as within Google Maps
+=========================================================================================================
+
+You should use this API endpoint: http://py4e-data.dr-chuck.net/geojson
+
+To call the API, 
+You need to provide a sensor=false parameter and the address that you are requesting as the address= parameter 
+Encode the URL
+Run program to find the place_id of any specific location
