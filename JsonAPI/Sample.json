@@ -1,0 +1,70 @@
+
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BITS",
+               "short_name" : "BITS",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pilani",
+               "short_name" : "Pilani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhunjhunu",
+               "short_name" : "Jhunjhunu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "333031",
+               "short_name" : "333031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BITS, Pilani, Rajasthan 333031, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.367104,
+                  "lng" : 75.5941991
+               },
+               "southwest" : {
+                  "lat" : 28.3509851,
+                  "lng" : 75.58301809999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3580163,
+               "lng" : 75.5887989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.367104,
+                  "lng" : 75.5941991
+               },
+               "southwest" : {
+                  "lat" : 28.3509851,
+                  "lng" : 75.58301809999999
+               }
+            }
+         },
+         "place_id" : "ChIJiS2H9mQZEzkR_Vg0F3qaGsM",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
